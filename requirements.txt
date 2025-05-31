@@ -3,3 +3,4 @@ Pillow
 tqdm
 opencv-python
 scikit-image
+tabulate
